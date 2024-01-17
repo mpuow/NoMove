@@ -8,4 +8,4 @@ A simple script to prevent mouse movement off screen while gaming.\
 
 ##
 
-Provided exe has been tested on windows, .bat file is an alternative way to run the script.
+Provided .exe has been tested on windows, .bat file is an alternative way to run the script.

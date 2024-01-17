@@ -4,7 +4,7 @@
 ##
 
 A simple script to prevent mouse movement off screen while gaming.\
-(Some games have issues with window boundaries and it can be game breaking to click)\
+(Some games have issues with window boundaries and it can be game breaking to click outside the game window)
 
 ##
 
